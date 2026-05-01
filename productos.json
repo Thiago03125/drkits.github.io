@@ -1,3 +1,18 @@
 {
-  "productos": []
+  "productos": [
+    {
+      "id": "1777614227408",
+      "nombre": "Camisa de prueva",
+      "liga": "la lida",
+      "categoria": "futbol",
+      "descripcion": "camisa de prueba",
+      "precio_fan": 56,
+      "precio_player": 25,
+      "tiene_player": true,
+      "imagen": "https://imgur.com/a/E4xiRB9",
+      "temporada": "12-12-12",
+      "disponible": true,
+      "destacado": false
+    }
+  ]
 }
