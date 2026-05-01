@@ -1,18 +1,3 @@
 {
-  "productos": [
-    {
-      "id": "1777613990399",
-      "nombre": "sad",
-      "liga": "asd",
-      "categoria": "futbol",
-      "descripcion": "asdsa",
-      "precio_fan": 12,
-      "precio_player": 12,
-      "tiene_player": true,
-      "imagen": "",
-      "temporada": "2123",
-      "disponible": true,
-      "destacado": false
-    }
-  ]
+  "productos": []
 }
