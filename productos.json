@@ -1,3 +1,18 @@
 {
-  "productos": []
+  "productos": [
+    {
+      "id": "1777613216455",
+      "nombre": "España visitante 2010",
+      "liga": "UCL",
+      "categoria": "futbol",
+      "descripcion": "bla bla bla",
+      "precio_fan": 24,
+      "precio_player": 20,
+      "tiene_player": true,
+      "imagen": "",
+      "temporada": "2824-895",
+      "disponible": true,
+      "destacado": false
+    }
+  ]
 }
