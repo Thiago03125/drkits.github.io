@@ -1,3 +1,18 @@
 {
-  "productos": []
+  "productos": [
+    {
+      "id": "1777613900440",
+      "nombre": "mjca camisa",
+      "liga": "la liga",
+      "categoria": "futbol",
+      "descripcion": "camisa de prueba",
+      "precio_fan": 45,
+      "precio_player": 20,
+      "tiene_player": true,
+      "imagen": "https://imgur.com/a/E4xiRB9",
+      "temporada": "2824-895",
+      "disponible": true,
+      "destacado": true
+    }
+  ]
 }
