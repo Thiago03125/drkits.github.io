@@ -349,7 +349,7 @@ async function loadProducts() {
   if (!ghConfig) {
     // Cargar desde archivo local si existe
     try {
-      const r = await fetch('productos.json?t=' + Date.now());
+      const r = await fetch('https://raw.githubusercontent.com/Thiago03125/drkits.github.io/main/productos.json?t=' + Date.now());
       const data = await r.json();
       productos = data.productos || [];
       renderList();
